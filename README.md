@@ -1,16 +1,16 @@
-## Fala Galera! Sou Camilo Coelho desenvolvedor web e mobile freelancer!
-Desenvolvedor Full-Stack utilizando a linguagem de programação JavaScript e a biblioteca React.js para o front-end e a biblioteca Node.js para o Back-End, e domínio de Postgresql para bancos SQL.
-  
--> Front-End: Desenvolvimento completo de sites em React.js com pixel perfection, integração com APIs, e testes ponta a pota (e2e) com Cypress
- 
- -> Back-End: Desenvolvimento de APIs rest em Node.js e Express, testes de integração com jest, 
-autenticação utilizando JWT.
-  
-->Banco de dados: dominio completo de CRUD em bancos sql utilizando o gererenciado Postgress para banco de dados
+## Hey Guys! I'm Camilo, a full stack and mobile developer!
+Full-Stack developer using the JavaScript programming language and the React.js library for the front-end and the Node.js library for the Back-End, and Postgresql domain for SQL databases.
 
--> dominio de versionamento de código utilizando git e github
+-> Front-End: Complete website development in React.js with pixel perfection, API integration, and end-to-end (e2e) testing with Cypress
 
--> Conhecimentos básicos de ReactNative e Flutter aplicado a projetos pessoais.
+-> Back-End: Development of rest APIs in Node.js and Express, integration tests with jest, authentication using JWT.
+
+->Database: complete domain of CRUD in sql databases using Postgress database manager
+
+-> code versioning domain using git and github
+
+-> Basic knowledge of React Native and Flutter applied to personal projects.
+
  
 <br>
 <div align="center">
